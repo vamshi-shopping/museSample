@@ -1,0 +1,116 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.AerusFAQ.html,https://padlet.com/bobbylester/Bookmarks" resolutions="1x" timestamp="1601568602111">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_faq-home.css" crc="3974967388" ref="index"/>
+    <file name="index.css" crc="4148141003" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="aerus_llc_main_logo.png" crc="129694230" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="u204-4.png" crc="379820986" ref="index"/>
+    <file name="u736-4.png" crc="3846044059" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u754.png" crc="4018823048" ref="index"/>
+    <file name="u754-r.png" crc="531569010" ref="index"/>
+    <file name="u754-m.png" crc="4209924422" ref="index"/>
+    <file name="u754-a.png" crc="444053461" ref="index"/>
+    <file name="u753-4.png" crc="409611588" ref="index"/>
+    <file name="u789.png" crc="3923966088" ref="index"/>
+    <file name="u789-r.png" crc="3846925106" ref="index"/>
+    <file name="u789-m.png" crc="3777503198" ref="index"/>
+    <file name="u789-a.png" crc="511724418" ref="index"/>
+    <file name="u791-19.png" crc="300690785" ref="index"/>
+    <file name="u756.png" crc="4239548769" ref="index"/>
+    <file name="u756-r.png" crc="3773165414" ref="index"/>
+    <file name="u756-m.png" crc="368133467" ref="index"/>
+    <file name="u756-a.png" crc="76545610" ref="index"/>
+    <file name="u758-4.png" crc="4154667777" ref="index"/>
+    <file name="u772.png" crc="3988043" ref="index"/>
+    <file name="u772-r.png" crc="477906092" ref="index"/>
+    <file name="u772-m.png" crc="3875338441" ref="index"/>
+    <file name="u772-a.png" crc="40763582" ref="index"/>
+    <file name="u771-4.png" crc="79188384" ref="index"/>
+    <file name="u763.png" crc="4070664968" ref="index"/>
+    <file name="u763-r.png" crc="4025782335" ref="index"/>
+    <file name="u763-m.png" crc="3992586151" ref="index"/>
+    <file name="u763-a.png" crc="3898047428" ref="index"/>
+    <file name="u765-4.png" crc="165734007" ref="index"/>
+    <file name="u746.png" crc="4010135555" ref="index"/>
+    <file name="u746-r.png" crc="3944637220" ref="index"/>
+    <file name="u746-m.png" crc="4118660756" ref="index"/>
+    <file name="u746-a.png" crc="115502377" ref="index"/>
+    <file name="u744-10.png" crc="4283402278" ref="index"/>
+    <file name="u748.png" crc="4221233654" ref="index"/>
+    <file name="u748-r.png" crc="115703349" ref="index"/>
+    <file name="u748-m.png" crc="370403471" ref="index"/>
+    <file name="u748-a.png" crc="3882412411" ref="index"/>
+    <file name="u750-21.png" crc="4064522354" ref="index"/>
+    <file name="u739.png" crc="185412181" ref="index"/>
+    <file name="u739-r.png" crc="248801261" ref="index"/>
+    <file name="u739-m.png" crc="3942957909" ref="index"/>
+    <file name="u739-a.png" crc="471194936" ref="index"/>
+    <file name="u741-4.png" crc="118474974" ref="index"/>
+    <file name="u775.png" crc="3767588361" ref="index"/>
+    <file name="u775-r.png" crc="285147525" ref="index"/>
+    <file name="u775-m.png" crc="111920053" ref="index"/>
+    <file name="u775-a.png" crc="382798982" ref="index"/>
+    <file name="u802.png" crc="71383825" ref="index"/>
+    <file name="u802-r.png" crc="35050314" ref="index"/>
+    <file name="u802-m.png" crc="4158205985" ref="index"/>
+    <file name="u802-a.png" crc="4089216002" ref="index"/>
+    <file name="u778.png" crc="303250443" ref="index"/>
+    <file name="u778-r.png" crc="373083417" ref="index"/>
+    <file name="u778-m.png" crc="378462300" ref="index"/>
+    <file name="u778-a.png" crc="213673131" ref="index"/>
+    <file name="u784.png" crc="240590753" ref="index"/>
+    <file name="u784-r.png" crc="4099192652" ref="index"/>
+    <file name="u784-m.png" crc="23414719" ref="index"/>
+    <file name="u784-a.png" crc="231116479" ref="index"/>
+    <file name="u805.png" crc="534815111" ref="index"/>
+    <file name="u805-r.png" crc="329495711" ref="index"/>
+    <file name="u805-m.png" crc="3963163971" ref="index"/>
+    <file name="u805-a.png" crc="165929788" ref="index"/>
+    <file name="u780.png" crc="2114897" ref="index"/>
+    <file name="u780-r.png" crc="3831727343" ref="index"/>
+    <file name="u780-m.png" crc="402120449" ref="index"/>
+    <file name="u780-a.png" crc="249157675" ref="index"/>
+    <file name="u786.png" crc="4044839234" ref="index"/>
+    <file name="u786-r.png" crc="109242018" ref="index"/>
+    <file name="u786-m.png" crc="3953372095" ref="index"/>
+    <file name="u786-a.png" crc="181370048" ref="index"/>
+    <file name="u793.png" crc="3844802520" ref="index"/>
+    <file name="u793-r.png" crc="4192349126" ref="index"/>
+    <file name="u793-m.png" crc="4084217625" ref="index"/>
+    <file name="u793-a.png" crc="4246960632" ref="index"/>
+    <file name="u768.png" crc="233955738" ref="index"/>
+    <file name="u768-r.png" crc="534105261" ref="index"/>
+    <file name="u768-m.png" crc="3924652348" ref="index"/>
+    <file name="u768-a.png" crc="73247484" ref="index"/>
+    <file name="u761.png" crc="3918158253" ref="index"/>
+    <file name="u761-r.png" crc="42845043" ref="index"/>
+    <file name="u761-m.png" crc="3839511837" ref="index"/>
+    <file name="u761-a.png" crc="4175379521" ref="index"/>
+    <file name="u796.png" crc="4118786692" ref="index"/>
+    <file name="u796-r.png" crc="514580602" ref="index"/>
+    <file name="u796-m.png" crc="358727565" ref="index"/>
+    <file name="u796-a.png" crc="3791164032" ref="index"/>
+    <file name="u799.png" crc="4207962922" ref="index"/>
+    <file name="u799-r.png" crc="86932974" ref="index"/>
+    <file name="u799-m.png" crc="275837415" ref="index"/>
+    <file name="u799-a.png" crc="242127753" ref="index"/>
+    <file name="u807-33.png" crc="3927748437" ref="index"/>
+  </folder>
+  <file name="index.html" crc="262427687" seo="true" mt="1601568315241" redirect="true"/>
+</manifest>
